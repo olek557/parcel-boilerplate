@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel -p 3000 ./src/index.html --no-cache"
+    "start": "parcel -p 3000 ./src/index.html --no-cache --open"
   },
   "devDependencies": {
     "autoprefixer": "^9.4.9",
